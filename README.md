@@ -9,3 +9,5 @@ python extractive_model.py
 https://github.com/sunyilgdx/SIFRank
 
 https://github.com/IBM/document2slides
+
+https://github.com/mswellhao/PacSum
